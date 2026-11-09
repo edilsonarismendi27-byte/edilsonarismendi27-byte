@@ -1,28 +1,30 @@
-# Edilson Angel Arismendi Huanca
+# Olá, eu sou Edilson Angel Arismendi Huanca 👋
 
-**Estudante de Engenharia de Software**
+### Estudante de Engenharia de Software | Em constante aprendizado
 
-Sou estudante de Engenharia de Software, construindo minha experiência em programação por meio de estudos e projetos acadêmicos. Tenho interesse em desenvolvimento web, inteligência artificial e cibersegurança.
+Estou desenvolvendo minhas habilidades em programação por meio de projetos acadêmicos e estudos práticos. Tenho interesse em **desenvolvimento web, inteligência artificial e cibersegurança**, e busco evoluir a cada projeto.
 
-## Tecnologias e ferramentas
+### 💻 Tecnologias que estou aprendendo
 
-**Em aprendizado:** C · HTML · CSS · JavaScript
+`C` · `HTML5` · `CSS3` · `JavaScript`
 
-**Ferramentas de estudo:** Git · GitHub · Visual Studio Code
+**Ferramentas:** Git · GitHub · Visual Studio Code
 
-## Projeto em destaque
+### 📌 Projeto em destaque
 
-### [ONG Nexus Digital](https://github.com/edilsonarismendi27-byte/ONG-NEXUS-DIGITAL)
+**[ONG Nexus Digital](https://github.com/edilsonarismendi27-byte/ONG-NEXUS-DIGITAL)**
 
-Site acadêmico de uma ONG fictícia voltada à inclusão digital e à educação. Projeto de estudo com HTML, CSS e JavaScript. O repositório reúne arquivos recuperados de etapas diferentes e inclui páginas ainda em desenvolvimento.
+Projeto acadêmico de um site para uma ONG fictícia, com foco em inclusão digital e educação. Desenvolvido como exercício de **HTML, CSS e JavaScript**.
 
-## Foco atual
+> Repositório de estudo com arquivos recuperados de diferentes etapas; algumas páginas ainda estão em desenvolvimento.
 
-- Aprimorar a lógica de programação e a resolução de problemas.
-- Desenvolver e documentar projetos práticos.
-- Estudar fundamentos de desenvolvimento web e engenharia de software.
-- Aprender boas práticas de versionamento de código.
+### 🎯 Meus objetivos
+
+- Fortalecer a lógica de programação e a resolução de problemas.
+- Criar projetos cada vez mais completos e bem documentados.
+- Aprimorar meus conhecimentos em desenvolvimento web e engenharia de software.
+- Aprender e aplicar boas práticas de versionamento com Git.
 
 ---
 
-[Ver todos os repositórios](https://github.com/edilsonarismendi27-byte?tab=repositories)
+📂 **[Conheça meus repositórios](https://github.com/edilsonarismendi27-byte?tab=repositories)**
