@@ -174,3 +174,9 @@ Aprendendo, criando projetos e evoluindo todos os dias. 🚀
 </div>
 
 ---
+
+---
+
+## 🌐 Projeto acadêmico publicado
+
+- **[ONG Nexus Digital](https://github.com/edilsonarismendi27-byte/ONG-NEXUS-DIGITAL)** — site acadêmico fictício para praticar HTML, CSS e JavaScript. Repositório com documentação e arquivos de estudo.
